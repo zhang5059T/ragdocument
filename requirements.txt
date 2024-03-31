@@ -1,4 +1,5 @@
 pdfplumber
 jieba
 numpy
-sklearn
+scikit-learn
+sentence_transformers
